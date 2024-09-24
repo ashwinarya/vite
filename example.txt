@@ -1,4 +1,1 @@
-Line 1
-Line 2 from main
-Line 3 from main
-fdgdfgdfg
+Line 1 main
